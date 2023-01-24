@@ -1,4 +1,5 @@
-<h1>Arquivo criado para testar e aprender sobre GIT.</h1>
+# Arquivo criado para testar e aprender sobre GIT
 
 > Status do  Projeto: Em desenvolvimento.
-> Criando o arquivo script.js
+<br>
+1. Criando o arquivo script.js
